@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gdocwiki/static/css/main.9e0d656d.chunk.css",
+    "main.js": "/gdocwiki/static/js/main.670f488b.chunk.js",
+    "main.js.map": "/gdocwiki/static/js/main.670f488b.chunk.js.map",
+    "runtime-main.js": "/gdocwiki/static/js/runtime-main.9c6ed477.js",
+    "runtime-main.js.map": "/gdocwiki/static/js/runtime-main.9c6ed477.js.map",
+    "static/js/2.430a7921.chunk.js": "/gdocwiki/static/js/2.430a7921.chunk.js",
+    "static/js/2.430a7921.chunk.js.map": "/gdocwiki/static/js/2.430a7921.chunk.js.map",
+    "index.html": "/gdocwiki/index.html",
+    "static/css/main.9e0d656d.chunk.css.map": "/gdocwiki/static/css/main.9e0d656d.chunk.css.map",
+    "static/js/2.430a7921.chunk.js.LICENSE.txt": "/gdocwiki/static/js/2.430a7921.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c6ed477.js",
+    "static/js/2.430a7921.chunk.js",
+    "static/css/main.9e0d656d.chunk.css",
+    "static/js/main.670f488b.chunk.js"
+  ]
+}
